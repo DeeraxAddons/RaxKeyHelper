@@ -1,0 +1,14 @@
+## Interface: 120000
+## Title: RaxKeyHelper
+## Notes: Broadcasts keys and alerts party members.
+## Author: Rax
+## Version: 1.1
+## SavedVariables: RaxKeyHelperDB
+## OptionalDeps: Ace3
+
+# Order matters!
+Core.lua
+Data.lua
+Comm.lua
+UI.lua
+Alert.lua
