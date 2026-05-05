@@ -26,7 +26,7 @@ RaxKeyHelper.DungeonTeleports = {
 
     --[Midnight S1]
     [239] = 1254551, -- Seat of the Triumvirate
-    [161] = 1254557, -- Skyreach
+    [161] = 159898, -- Skyreach
     [560] = 1254559, -- Maisara Caverns
     [402] = 393273, -- Algeth'ar Academy
     [557] = 1254400, -- Windrunner Spire
